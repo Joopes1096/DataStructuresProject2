@@ -1,0 +1,4 @@
+Tree Height: 6
+Number of Nodes: 16
+Number of Leaves: 5
+Number of Single Parents: 16
